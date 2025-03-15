@@ -1,0 +1,2 @@
+# react-notes
+For beginner
